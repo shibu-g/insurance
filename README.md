@@ -17,7 +17,7 @@ You can do crud operation with there model classes
 
 For Client base url is :- "/api/clients"
 
-   ``` Get operations:---
+``` Get operations:---
                You can get all the Clients present on
                     the database by heating the base url+"/".
                You can get specific clients by using id 
