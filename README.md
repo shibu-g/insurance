@@ -44,11 +44,14 @@ For Client base url is :- "/api/clients"
      Delete operation:---
             You can delete specific client form the database
             by heating the base url+{id}
-            ```
+            
+            
 For Policy base url is :- "/api/policies"
 
-```
+
+       ```
        Get operations:---
+       
           You can get all the Policy present on
 
          the database by heating the base url+"/".
@@ -80,8 +83,10 @@ For Policy base url is :- "/api/policies"
             You can delete specific Policy form the database by heating the base url+{id}
             
 ```
+
 For Claim base url is :- "/api/claims"
-```
+
+
        Get operations:---
                You can get all the Claims present on 
                the database by heating the base url+"/".
